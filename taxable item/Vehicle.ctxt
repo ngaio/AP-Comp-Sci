@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=c\ m\ t
+comment1.target=Vehicle(int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getListPrice()
+comment3.params=
+comment3.target=double\ purchasePrice()
+comment4.params=markup
+comment4.target=void\ changeMarkup(int)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TaxableItem
+comment1.params=rate
+comment1.target=TaxableItem(double)
+comment2.params=
+comment2.target=double\ getListPrice()
+comment3.params=
+comment3.target=double\ purchasePrice()
+comment3.text=\ \n\ <<<\ Complete\ for\ Part\ 1\ >>>\ \n\ Implement\ the\ method\ purchasePrice.\ The\ method\ calculates\ \n\ and\ returns\ the\ price\ of\ the\ item\ including\ the\ tax.\n
+numComments=4
