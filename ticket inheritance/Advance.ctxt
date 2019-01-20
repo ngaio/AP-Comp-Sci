@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Advance
+comment0.text=\n\ Complete\ the\ Advance\ class.\ Advance\ Tickets\ \n\ have\ a\ constructor\ and\ a\ method\ getPrice.\n
+comment1.params=
+comment1.target=Advance()
+comment2.params=d
+comment2.target=Advance(int)
+comment3.params=
+comment3.target=double\ getPrice()
+numComments=4

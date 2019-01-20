@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestTickets
+comment0.text=\n\ THIS\ CLASS\ IS\ COMPLETE\ \n\ BELOW\ IS\ THE\ EXPECTED\ OUTPUT\n\ \n\ WalkUp\ Tickets\n\ 0\ days\ in\ advance\:\ Number\:\ 0\n\ Price\:\ 50.0\n\ \n\ Advance\ Tickets\n\ 5\ days\ in\ advance\:\ Number\:\ 1\n\ Price\:\ 40.0\n\ 9\ days\ in\ advance\:\ Number\:\ 2\n\ Price\:\ 40.0\n\ 10\ days\ in\ advance\:\ Number\:\ 3\n\ Price\:\ 30.0\n\ 20\ days\ in\ advance\:\ Number\:\ 4\n\ Price\:\ 30.0\n\ \n\ Student\ Advance\ Tickets\n\ 5\ days\ in\ advance\:\ Number\:\ 5\n\ Price\:\ 20.0\ "student\ ID\ required"\n\ 9\ days\ in\ advance\:\ Number\:\ 6\n\ Price\:\ 20.0\ "student\ ID\ required"\n\ 10\ days\ in\ advance\:\ Number\:\ 7\n\ Price\:\ 15.0\ "student\ ID\ required"\n\ 20\ days\ in\ advance\:\ Number\:\ 8\n\ Price\:\ 15.0\ "student\ ID\ required"\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

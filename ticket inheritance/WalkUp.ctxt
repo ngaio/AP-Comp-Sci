@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WalkUp
+comment0.text=\n\ Complete\ the\ WalkUp\ class.\ \n\ WalkUp\ Tickets\ have\ a\ constructor\ and\ a\ method\ \n\ getPrice.\ All\ WalkUp\ tickets\ cost\ $50.\ \n
+comment1.params=
+comment1.target=WalkUp()
+comment2.params=
+comment2.target=double\ getPrice()
+numComments=3

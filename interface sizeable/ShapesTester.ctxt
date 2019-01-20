@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesTester
+comment0.text=\ \ <<<\ This\ code\ is\ complete\ >>>\n\ Below\ is\ a\ tester\ for\ the\ shapes\n\ \n\ It\ creates\ 1\ example\ of\ each\ type\ of\ shape\ and\ prints\ its\ \n\ the\ dimensions,\ volume,\ and\ surface\ area\n\ \n\ BELOW\ IS\ THE\ OUTPUT\ >>\ Your\ rounding\ might\ be\ different\!\n\ \n\ length\=3\ width\=4\ height\=5\ volume\=60.0\ surface\ area\=94.0\n\ radius\=10\ volume\=4188.79\ surface\ area\=1256.64\n\ radius\=5\ height\=3\ volume\=235.62\ surface\ area\=251.33\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RectangularPrism
+comment0.text=\n\ <<<\ Complete\ the\ class\ RectangularPrism\ below\:\ >>>\n\ Write\ a\ 3\ parameter\ constructor\ which\ initializes\ length,\ width\ and\ height\n\ Write\ all\ other\ methods\ as\ needed\n
+comment1.params=l\ w\ h
+comment1.target=RectangularPrism(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ volume()
+comment3.params=
+comment3.target=double\ surfaceArea()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

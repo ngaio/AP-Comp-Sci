@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StudentAdvance
+comment0.text=\n\ Complete\ the\ StudentAdvance\ class.\ StudentAdvance\ Tickets\ \n\ have\ a\ constructor\ and\ a\ method\ getPrice.\ \n\ Also\ the\ toString\ method\ for\ StudentAdvance\ tickets\ \n\ must\ include\ the\ words\:\ "student\ ID\ required".\ \n
+comment1.params=d
+comment1.target=StudentAdvance(int)
+comment2.params=
+comment2.target=double\ getPrice()
+numComments=3
