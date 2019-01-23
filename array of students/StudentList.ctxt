@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StudentList
+comment0.text=\n\ <<<\ This\ Class\ is\ NOT\ complete\ >>>\n\ \n\ Here\ is\ the\ output\ of\ the\ complete\ code\:\n\ \n\ Name\:\ Jim\ Average\:\ 80\n\ Name\:\ Sue\ Average\:\ 98\n\ Name\:\ Bob\ Average\:\ 74\n\ Name\:\ Liz\ Average\:\ 77\n\ Name\:\ Lee\ Average\:\ 68\n\ Name\:\ Tom\ Average\:\ 91\n\ Name\:\ Kim\ Average\:\ 85\n\ Name\:\ Lou\ Average\:\ 84\n\ Name\:\ Jan\ Average\:\ 81\n\ \n\ \n\ Name\:\ Jim\ Average\:\ 80\n\ Name\:\ Sue\ Average\:\ 98\n\ Name\:\ Bob\ Average\:\ 74\n\ Name\:\ Liz\ Average\:\ 77\n\ Name\:\ Lee\ Average\:\ 68\n\ Name\:\ Ned\ Average\:\ 82\n\ Name\:\ Tom\ Average\:\ 91\n\ Name\:\ Kim\ Average\:\ 85\n\ Name\:\ Lou\ Average\:\ 84\n\ Name\:\ Jan\ Average\:\ 81\n\ \n\ \ Highest\ Average\:\ Name\:\ Sue\ Average\:\ 98\n\ \n\ \ Class\ Average\:\ 82.0\n\ \n
+comment1.params=s
+comment1.target=StudentList(Student[])
+comment2.params=
+comment2.target=void\ printStudents()
+comment2.text=\ <<<\ This\ method\ is\ NOT\ complete\ >>>\n\ prints\ all\ of\ the\ students\ in\ the\ class\ and\ their\ averages\n
+comment3.params=newName\ newGrade
+comment3.target=void\ addStudent(java.lang.String,\ int)
+comment3.text=\ <<<\ This\ method\ is\ NOT\ complete\ >>>\n\ add\ a\ new\ student\ at\ first\ empty\ (null)\ position\ in\ the\ array\n\ if\ there\ are\ no\ empty\ positions\ then\ the\ student\ does\ not\ get\ added\n
+comment4.params=
+comment4.target=double\ classAverage()
+comment4.text=\ <<<\ This\ method\ is\ NOT\ complete\ >>>\n\ returns\ the\ class\ average\n
+comment5.params=
+comment5.target=Student\ getHighAve()
+comment5.text=\ <<<\ This\ method\ is\ NOT\ complete\ >>>\n\ returns\ the\ student\ in\ the\ class\ with\ the\ highest\ average\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ The\ main\ method\ is\ complete.\ \ \n\ Note\ that\ compSciStudent\ is\ an\ array\ of\ Student\ objects\!\n
+numComments=7
