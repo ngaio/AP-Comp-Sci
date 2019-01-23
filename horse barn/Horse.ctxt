@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Horse
+comment0.text=\ <<<\ This\ Class\ is\ Complete\ >>>\n\ Consider\ a\ software\ system\ that\ models\ a\ horse\ barn.\ \n\ Classes\ that\ represent\ horses\ implement\ the\ following\ interface.\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=@return\ the\ horse's\ name
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=@return\ the\ horse's\ weight
+numComments=3

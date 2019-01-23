@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HorseRunner
+comment0.text=\ \n\ <<<\ This\ Class\ is\ Complete\ >>>\n\n\ Below\ is\ the\ complete\ output...\n\ \n\ [Trigger/1340,\ null,\ Silver/1210,\ Lady/1575,\ null,\ Patches/1350,\ Duke/1410]\n\ Trigger\ in\ 0\n\ Silver\ in\ 2\n\ Coco\ in\ -1\n\ \n\ Before\:\ [Trigger/1340,\ null,\ Silver/1210,\ null,\ null,\ Patches/1350,\ Duke/1410]\n\ After\:\ \ [Trigger/1340,\ Silver/1210,\ Patches/1350,\ Duke/1410,\ null,\ null,\ null]\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
